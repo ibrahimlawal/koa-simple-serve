@@ -1,0 +1,42 @@
+{
+  "name": "koa-simple-serve",
+  "version": "1.0.0",
+  "description": "Koa simple middleware for serving static files bound to a specific path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimlawal/koa-simple-serve.git"
+  },
+  "keywords": [
+    "koa",
+    "serve",
+    "static",
+    "files",
+    "path",
+    "directory",
+    "folder",
+    "static",
+    "css",
+    "mime",
+    "html",
+    "js"
+  ],
+  "author": "Ibrahim Lawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrahimlawal/koa-simple-serve/issues"
+  },
+  "homepage": "https://github.com/ibrahimlawal/koa-simple-serve#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-plugin-node": "^5.2.1"
+  },
+  "dependencies": {
+    "directory-exists": "^1.0.2",
+    "mime-types": "^2.1.17"
+  }
+}
